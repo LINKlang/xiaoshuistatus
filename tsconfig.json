@@ -12,7 +12,7 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "sourceMap": false,
-        "strict": true,
+        "strict": false,
         "esModuleInterop": true
     },
     "files": [
